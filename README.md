@@ -19,6 +19,7 @@ The proposed system will use footage obtained from CCTV camera for monitoring th
 
 ## Dataset description
 <hr>
+
 Dataset consists of KTH dataset for walking and running and Kaggle dataset for [fighting](https://www.kaggle.com/naveenk903/movies-fight-detection-dataset).
 
 <br><br>
